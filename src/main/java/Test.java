@@ -45,7 +45,7 @@ public class Test {
             client.close();
             System.out.println("Collection names:");
             System.out.println(collection);
-            System.out.println("Connected!");
+            System.out.println("Connected!!!!");
         }
         catch(Exception e) {
             System.out.println("Error: " + e.getMessage());
